@@ -1,0 +1,9 @@
+[submodule "cgp"]
+	path = cgp
+	url = ./cgp
+[submodule "contextgeneric.dev"]
+	path = contextgeneric.dev
+	url = ./contextgeneric.dev/
+[submodule "hypershell"]
+	path = hypershell
+	url = ./hypershell
